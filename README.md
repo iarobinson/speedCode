@@ -9,18 +9,18 @@ Similar to old speed typing games.
 The levels would be writing simple functions really quickly
 
 1. Write if statements
-..* if girl return true else return false
-..* if yes return true else return false
-..* etc...
+* if girl return true else return false
+* if yes return true else return false
+* etc.
 2. Write a for loop:
-..* log all numbers between 5 and 10
-..* log all numbers between 12 and 80
-..* log all numbers between 1 and 10
-..* etc...
+* log all numbers between 5 and 10
+* log all numbers between 12 and 80
+* log all numbers between 1 and 10
+* etc.
 3. Write a forEach function from a given object:
-..* log all names
-..* log all phone numbers
-..* log all pets
+* log all names
+* log all phone numbers
+* log all pets
 
 This is the gist. The game should be able to generate a limitless number of random tests. This will gameify the process of learning syntax.
 
