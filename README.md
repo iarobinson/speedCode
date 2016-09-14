@@ -9,9 +9,9 @@ Similar to old speed typing games.
 The levels would be writing simple functions really quickly
 
 1. Write if statements
-- if girl return true else return false
-- if yes return true else return false
-- etc.
+    * if girl return true else return false
+    * if yes return true else return false
+    * etc.
 2. Write a for loop:
 - log all numbers between 5 and 10
 - log all numbers between 12 and 80
@@ -39,6 +39,6 @@ http://typing-speed-test.aoeu.eu/
 
 # To Do
 
-* Allow users to login and get badges based on speed on specific levels
-* Create a leaderboard for top scorers
-* Provide a tutorial process for people with 0 experience
+- [ ] Allow users to login and get badges based on speed on specific levels
+- [ ] Create a leaderboard for top scorers
+- [ ] Provide a tutorial process for people with 0 experience
