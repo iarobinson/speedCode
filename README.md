@@ -39,6 +39,15 @@ http://typing-speed-test.aoeu.eu/
 
 # To Do
 
+- [ ] Write HTML for Testing
+- [ ] CSS style for simplicity
+- [ ] JavaScript for timing
+- [ ] JavaScript for tracking errors
+- [ ] JavaScript for feeding results
+- [ ] Share buttons
+
+## Further Down The Line
+
 - [ ] Allow users to login and get badges based on speed on specific levels
 - [ ] Create a leaderboard for top scorers
 - [ ] Provide a tutorial process for people with 0 experience
